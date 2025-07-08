@@ -1,1 +1,101 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>松永 幸起（こうちゃん）の自己紹介</title>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', sans-serif;
+      background: linear-gradient(to right, #f0f4ff, #ffffff);
+      color: #333;
+      padding: 30px;
+      line-height: 1.8;
+    }
+    .card {
+      max-width: 700px;
+      margin: auto;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      padding: 30px;
+    }
+    h1 {
+      font-size: 28px;
+      text-align: center;
+      color: #2a5dff;
+      margin-bottom: 10px;
+    }
+    h2 {
+      font-size: 20px;
+      margin-top: 20px;
+      color: #2a5dff;
+    }
+    .tag {
+      display: inline-block;
+      background: #2a5dff;
+      color: white;
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 14px;
+      margin-right: 6px;
+      margin-top: 6px;
+    }
+    .footer {
+      margin-top: 30px;
+      font-size: 14px;
+      text-align: center;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>松永 幸起（こうちゃん）の自己紹介</h1>
+    
+    <h2>🌟 プロフィール</h2>
+    <p>
+      広島県熊野町出身の16歳、高校2年生（広島山陽高校 工学科）！<br>
+      みんなからは「まっちゃん」って呼ばれるけど、仲良くなったら「こうちゃん」って呼んでな✨
+    </p>
+
+    <h2>💪 好きなこと・特技</h2>
+    <p>
+      ・筋トレで自分と向き合うのが日課！<br>
+      ・映画観賞・雑談・DIYで気分転換🔥<br>
+      ・電気工事もできちゃう系男子⚡<br>
+      ・動画編集も任せて！🎬
+    </p>
+
+    <h2>🍴 好きな食べ物</h2>
+    <p>
+      からあげ・ポテト・シャウエッセン🌭<br>
+      これさえあれば幸せってやつ！
+    </p>
+
+    <h2>🎧 最近ハマってること</h2>
+    <p>
+      Group Blastにガチ沼中🔥<br>
+      workout music聞きながらノリノリでトレーニングしてるよ！
+    </p>
+
+    <h2>🎯 目標と夢</h2>
+    <p>
+      ・バス運転士になることが将来の夢🚌<br>
+      ・まずは100kgを切ることを全力で挑戦中🔥<br>
+      ・2025年11月1日までに彼女を作ること💘<br>
+      ・資格にもガンガン挑戦中！（危険物・電工・運行管理者など）
+    </p>
+
+    <h2>🧠 座右の銘</h2>
+    <p>
+      「自分の生きる人生を愛せ！自分の愛する人生を生きろ！」
+    </p>
+
+    <div class="footer">
+      ここまで読んでくれてありがとう😊<br>
+      もっと仲良くなろうね✨
+    </div>
+  </div>
+</body>
+</html>
 
